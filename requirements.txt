@@ -1,0 +1,6 @@
+tqdm
+pandas
+scikit-learn
+numpy
+youconfigme
+requests

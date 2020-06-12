@@ -4,3 +4,4 @@ scikit-learn
 numpy
 youconfigme
 requests
+pandas-profiling[notebook]

@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+predictions/*.csv
+__pycache__
+**.log
+**.pkl
